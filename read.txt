@@ -1,0 +1,24 @@
+How to setup Flask Envinoment
+
+1) pip install virtualenv
+2) python -m virtualenv flask-env
+3) cd flask-env/Scripts
+4) cmd +enter
+5) activate.bat
+6) pip install flask
+7) make a new folder name (Flask) add new file (app.py) import flask print(flask._version_) 
+8) cd flask and run it python app.py 
+
+how to create A db database in flask
+>>> from app import db, app
+>>> app.app_context().push()
+>>> db.createall()
+
+Linkedln  :
+https://www.linkedin.com/in/mumtazali12/
+GitHub :
+https://github.com/engrmumtazali0112
+Fiverr Profile:
+https://www.fiverr.com/engrmumtazali01?up_rollout=true
+Gigs:
+https://www.fiverr.com/s/6YzwedB
