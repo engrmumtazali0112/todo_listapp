@@ -39,3 +39,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 Inspired by the need for a simple and effective task management system.
 Built as part of learning Flask and SQLAlchemy.
+Linkedln  :
+https://www.linkedin.com/in/mumtazali12/
+GitHub :
+https://github.com/engrmumtazali0112
+Fiverr Profile:
+https://www.fiverr.com/engrmumtazali01?up_rollout=true
+Gigs:
+https://www.fiverr.com/s/6YzwedB
+
